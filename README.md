@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **MERN Stack frameworks**
 
+- 🌱 All my projects are rendered in this link: https://linktr.ee/sathwik98
+
 - 📫 How to reach me **sathwiknayak199@gmail.com**
 
 - ⚡ Fun fact **My code has more comments than my high school yearbook**
